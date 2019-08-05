@@ -1,9 +1,9 @@
 <p align="center"><img src="images/squared-serverless-logo-small.png" height="150" alt="Seagull with a French Fry"></p>
-<h1 align="center">Twilio Serverless Toolkit</h1>
+<h1 align="center">Serverless Toolkit</h1>
 
-## What is Twilio Serverless Toolkit?
+## What is the Serverless Toolkit?
 
-The [Twilio Serverless Toolkit](https://www.twilio.com/docs/labs/severless-toolkit) is CLI tooling to help you develop locally and deploy to Twilio Serverless.
+The [Serverless Toolkit](https://www.twilio.com/docs/labs/severless-toolkit) is CLI tooling to help you develop locally and deploy to the [Twilio Runtime](https://www.twilio.com/runtime).
 
 There are two ways you can use the toolkit. If you are already using the [Twilio CLI](https://www.twilio.com/docs/twilio-cli), you can install it via a plugin. Alternatively, you can use the toolkit as a standalone using [twilio-run](https://npm.im/twilio-run) via npm or another Node.js package manager.
 
