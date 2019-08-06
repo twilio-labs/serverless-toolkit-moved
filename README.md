@@ -1,4 +1,4 @@
-<p align="center"><img src="images/squared-serverless-logo-small.png" height="150" alt="Seagull with a French Fry"></p>
+<p align="center"><img src="images/squared-serverless-logo-small.png" height="150" alt="Seagull with a French Fry"><a href="#disclaimer">*</a></p>
 <h1 align="center">Serverless Toolkit</h1>
 
 ## What is the Serverless Toolkit?
@@ -28,3 +28,7 @@ To understand more about the structure and the design of the Toolkit check out t
 ## License
 
 MIT
+
+## Disclaimer
+
+Inofficial logo. Not a Twilio logo.
