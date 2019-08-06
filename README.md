@@ -31,4 +31,4 @@ MIT
 
 ## Disclaimer
 
-Inofficial logo. Not a Twilio logo.
+Unofficial logo. Not a Twilio logo.
