@@ -1,5 +1,6 @@
 <p align="center"><img src="images/squared-serverless-logo-small.png" height="150" alt="Seagull with a French Fry"><a href="#disclaimer">*</a></p>
 <h1 align="center">Serverless Toolkit</h1>
+<p align="center"><a href="https://github.com/twilio-labs/about"><img src="https://img.shields.io/static/v1?label=&message=Twilio-Labs&color=F22F46&labelColor=0D122B&logo=twilio&style=for-the-badge" alt="Part of Twilio Labs Banner"></a></p>
 
 ## What is the Serverless Toolkit?
 
