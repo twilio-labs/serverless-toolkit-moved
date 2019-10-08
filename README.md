@@ -22,7 +22,7 @@ To understand more about the structure and the design of the Toolkit check out t
 
 - [`twilio-run`](https://github.com/twilio-labs/twilio-run) - The underlying CLI tool
 - [`plugin-serverless`](https://github.com/twilio-labs/plugin-serverless) - Exposes the `twilio-run` CLI into the [Twilio CLI](https://www.twilio.com/docs/twilio-cli)
-- [`create-twilio-function`](https://github.com/twilio-labs/create-twilio-function) - Handles templating and bootstraping of new projects and Functions
+- [`create-twilio-function`](https://github.com/twilio-labs/create-twilio-function) - Handles templating and bootstrapping of new projects and Functions
 - [`serverless-api`](https://github.com/twilio-labs/serverless-api) - The module used to interact with the actual [Serverless API](https://github.com/twilio-labs/serverless-api)
 - [`function-templates`](https://github.com/twilio-labs/function-templates) - The templates used by the toolkit to create new Functions
 
